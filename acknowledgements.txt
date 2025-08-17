@@ -1,0 +1,3 @@
+We acknowledge The Farama Foundation for the highway environment used for this assignment.
+The simulator has been taken from https://github.com/Farama-Foundation/HighwayEnv and is
+modified according to the needs of this assignment.

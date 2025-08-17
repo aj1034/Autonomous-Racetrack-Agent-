@@ -1,0 +1,15 @@
+# You should use Python 3.12.0 for this assignment.
+# You should install the following libraries in a newly created python virtual environment:
+
+gymnasium
+scipy
+matplotlib
+pygame
+pandas
+cma
+gymnasium[other]
+
+# Note: gymnasium installs numpy so you don't need to install it separately.
+# On some systems gymnasium[other] requires double quotes for installation: pip install "gymnasium[other]"
+# The versions that will be used for grading your submissions are: gymnasium (1.1.1), scipy (1.15.2),
+# matplotlib (3.10.1), pygame (2.6.1), pandas (2.2.3) and cma (4.0.0)
